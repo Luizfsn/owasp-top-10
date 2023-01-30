@@ -35,6 +35,7 @@
 - Software and data integrity failures relate to code and infrastructure that does not protect against integrity violations. An example is when an application relies upon plugins, libraries, or modules from untrusted sources, repositories, and content delivery networks (CDNs).
 
 **9. Security Logging and Monitoring Failures**· https://lnkd.in/gx3i92V5
+
 **10. Server-Side Request Forgery** · https://lnkd.in/gsQpgbaA
 
 
